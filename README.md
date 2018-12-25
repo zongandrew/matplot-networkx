@@ -1,7 +1,6 @@
-# matplot
-A helloworld program using python matplotlib for data visibility. 
+This is a repository of examples of using matplotlib and networkx to draw kinds of graphes in Python.
 
-A repo for initial learn about python matplotlib -- the data visibling tool. 
+For using matplotlib in python virtualenv, please see: 
+https://matplotlib.org/faq/osx_framework.html
 
-Search online for the installation and documents. 
-
+`If you absolutely need to use virtualenv rather than venv, then from within the environment you can set the PYTHONHOME environment variable to $VIRTUAL_ENV, then invoke Python using the full path to the framework build (typically /usr/local/bin/python).`
